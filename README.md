@@ -32,4 +32,3 @@ https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177726  
 https://www.mdpi.com/2075-4418/11/3/510
-
