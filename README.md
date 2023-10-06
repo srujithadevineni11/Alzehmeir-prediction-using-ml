@@ -11,6 +11,12 @@ Alzehmeir Datasets links.
 https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images  
 https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset  
 https://www.kaggle.com/datasets/lukechugh/best-alzheimer-mri-dataset-99-accuracy  
-->
+->Diabetes Prediction Using ML Algorithms(Vyshnavi)  
+Research paper :- https://www.sciencedirect.com/science/article/pii/S1877050920300557   
+Diabetes Datasets links.    
+https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset   
+https://www.kaggle.com/datasets/mathchi/diabetes-data-set   
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset   
+https://www.kaggle.com/datasets/whenamancodes/predict-diabities   
 ->
 ->
