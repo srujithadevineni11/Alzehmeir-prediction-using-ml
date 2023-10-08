@@ -43,4 +43,13 @@ After conducting extensive research on various diseases, we have decided to conc
 
 ## Week-2
 ### Engaging in the exploration of various datasets related to Alzheimer's Disease and thoroughly reviewing a wide range of research papers.
+##### We have identified several research papers that offer valuable insights into Alzheimer's disease, providing an opportunity to delve deeper into this topic.
+https://sci-hub.se/10.1109/ICACCS48705.2020.9074248  
+https://www.nature.com/articles/s41598-022-20674-x   
+https://www.frontiersin.org/articles/10.3389/fpubh.2022.853294/full   
+https://www.sciencedirect.com/science/article/pii/S1532046420301428   
+https://www.hindawi.com/journals/jhe/2021/9917919/   
+##### We have found some datasets that we can use for Alzheimer's research.
+https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images   
+https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers    
 
