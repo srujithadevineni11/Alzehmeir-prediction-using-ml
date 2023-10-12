@@ -1,5 +1,3 @@
-# UROP_project
-
 ## Week-1  
 ### Topic selection :- Searching on different healthcare related topics to define our problem statement.    
 
@@ -52,4 +50,8 @@ https://www.hindawi.com/journals/jhe/2021/9917919/
 ##### We have found some datasets that we can use for Alzheimer's research.
 https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images   
 https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers    
+
+We performed an extensive analysis of the dataset available at https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers, including in-depth exploratory data analysis and rigorous data preprocessing. Subsequently, we applied a variety of machine learning algorithms to create predictive models ,the accuracys are shown in the below graph. Our objective was to leverage this dataset to make informed decisions and predictions in the field of Alzheimer's research.
+
+<img width="533" alt="Screenshot 2023-10-12 at 4 35 35 PM" src="https://github.com/srujithadevineni11/UROP_project/assets/114294796/61796f4b-6952-4c88-a104-b8ebd524408f">
 
