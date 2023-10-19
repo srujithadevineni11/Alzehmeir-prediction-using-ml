@@ -55,3 +55,5 @@ We performed an extensive analysis of the dataset available at https://www.kaggl
 
 <img width="533" alt="Screenshot 2023-10-12 at 4 35 35 PM" src="https://github.com/srujithadevineni11/UROP_project/assets/114294796/61796f4b-6952-4c88-a104-b8ebd524408f">
 
+## week-3
+To enhance the robustness of our machine learning model for early Alzheimer's prediction, we aim to broaden our dataset exploration. We seek additional datasets pertaining to Alzheimer's disease, with the objective of enriching our model's performance and accuracy. By expanding our data sources, we aim to create a more comprehensive and reliable predictive tool for early Alzheimer's detection.
