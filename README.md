@@ -57,3 +57,6 @@ We performed an extensive analysis of the dataset available at https://www.kaggl
 
 ## week-3
 To enhance the robustness of our machine learning model for early Alzheimer's prediction, we aim to broaden our dataset exploration. We seek additional datasets pertaining to Alzheimer's disease, with the objective of enriching our model's performance and accuracy. By expanding our data sources, we aim to create a more comprehensive and reliable predictive tool for early Alzheimer's detection.
+
+## code 
+https://www.kaggle.com/code/vishakansubramanian/alzheimer-s-disease-classification-notebook
