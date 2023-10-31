@@ -60,3 +60,8 @@ To enhance the robustness of our machine learning model for early Alzheimer's pr
 
 ## code 
 https://www.kaggle.com/code/vishakansubramanian/alzheimer-s-disease-classification-notebook
+
+
+## References links
+https://ieeexplore.ieee.org/abstract/document/8389326     
+https://www.v7labs.com/blog/image-processing-guide
