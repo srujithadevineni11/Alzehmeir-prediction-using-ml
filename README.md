@@ -65,3 +65,4 @@ https://www.kaggle.com/code/vishakansubramanian/alzheimer-s-disease-classificati
 ## References links
 https://ieeexplore.ieee.org/abstract/document/8389326     
 https://www.v7labs.com/blog/image-processing-guide
+P. Lodha, A. Talele and K. Degaonkar, "Diagnosis of Alzheimer's Disease Using Machine Learning," 2018 Fourth International Conference on Computing Communication Control and Automation (ICCUBEA), Pune, India, 2018, pp. 1-4, doi: 10.1109/ICCUBEA.2018.8697386.
