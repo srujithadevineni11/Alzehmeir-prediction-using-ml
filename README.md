@@ -57,7 +57,7 @@ We selected our dataset from Kaggle, accessible at https://www.kaggle.com/datase
 
 
 # week-3
-## Thorough Analysis of the Dataset: Comprehensive examination and exploration of the dataset have been conducted to extract valuable insights.
+## Thorough Analysis of the Numerical Dataset: Comprehensive examination and exploration of the dataset have been conducted to extract valuable insights.
 
 we meticulously executed the following steps for analyzing the Alzheimer's dataset:
 
@@ -105,7 +105,7 @@ The accuracys are shown in the below graph.
 
 # week-4
 
-## Exploring the image dataset 
+## Thorough Analysis of the Image Dataset: Comprehensive examination and exploration of the dataset have been conducted to extract valuable insights.
 
 To bolster our machine learning model's robustness in early Alzheimer's prediction, we're broadening our dataset exploration. Additional datasets related to Alzheimer's disease are being sought to enhance our model's performance and accuracy. By expanding our data sources, we aim to create a more comprehensive and reliable predictive tool for early Alzheimer's detection.
 As part of our dataset expansion strategy, we've chosen to include the Alzheimer's Image Dataset available on Kaggle. This dataset comprises images classified into four distinct classes related to Alzheimer's disease. 
