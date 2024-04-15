@@ -58,7 +58,9 @@ We performed an extensive analysis of the dataset available at https://www.kaggl
 ## week-3
 To enhance the robustness of our machine learning model for early Alzheimer's prediction, we aim to broaden our dataset exploration. We seek additional datasets pertaining to Alzheimer's disease, with the objective of enriching our model's performance and accuracy. By expanding our data sources, we aim to create a more comprehensive and reliable predictive tool for early Alzheimer's detection.
 
+As part of our dataset expansion strategy, we have chosen to include the Alzheimer's Image Dataset available on Kaggle. This dataset consists of images classified into four distinct classes related to Alzheimer's disease.
 
+We have selected the below image dataset due to its potential to offer valuable visual insights into Alzheimer's disease progression. By integrating visual data alongside structured data, we anticipate a more comprehensive understanding of the condition, leading to improved predictive performance.
 
 https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
 
