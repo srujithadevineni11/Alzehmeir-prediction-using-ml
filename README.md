@@ -3,34 +3,34 @@
 
 Selected topics related to common diseases.    
 
-### Alzehmeir prediction using ml(srujitha)     
-#### RESEARCH PAPER   
-https://www.frontiersin.org/articles/10.3389/fpubh.2022.853294/full    
-##### Alzehmeir Datasets links.   
+#### Alzehmeir prediction using ml(srujitha)     
+- RESEARCH PAPER   
+https://www.frontiersin.org/articles/10.3389/fpubh.2022.853294/full
+- Alzehmeir Datasets links.   
 https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images  
 https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset  
 https://www.kaggle.com/datasets/lukechugh/best-alzheimer-mri-dataset-99-accuracy  
 
-### Diabetes Prediction Using ML Algorithms(Vyshnavi)  
-#### RESEARCH PAPERS  
+#### Diabetes Prediction Using ML Algorithms(Vyshnavi)  
+- RESEARCH PAPERS  
 https://www.sciencedirect.com/science/article/pii/S1877050920300557    
-##### Diabetes Datasets links.   
+- Diabetes Datasets links.   
 https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset   
 https://www.kaggle.com/datasets/mathchi/diabetes-data-set   
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset   
 https://www.kaggle.com/datasets/whenamancodes/predict-diabities  
 
-### Glaucoma Prediction using ML(Lakshmi Sathvika)  
-#### RESEARCH PAPERS  
+#### Glaucoma Prediction using ML(Lakshmi Sathvika)  
+- RESEARCH PAPERS  
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177726  
 https://www.mdpi.com/2075-4418/11/3/510
-##### DATASETS:  
+- DATASETS:  
 https://www.kaggle.com/datasets/azmatsiddique/glaucoma-dataset  
 https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection  
 
-###  Autism Prediction using ML(Tanya Kavuru) 
-#### RESEARCH PAPERS  
-##### DATASETS:
+####  Autism Prediction using ML(Tanya Kavuru) 
+- RESEARCH PAPERS  
+- DATASETS:
 https://www.kaggle.com/datasets/faruk268/determinants-of-autism-spectrum-disorder  
 https://www.kaggle.com/code/konikarani/autism-prediction  
 https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults  
@@ -43,13 +43,14 @@ After conducting extensive research on various diseases, we have decided to conc
 ## Engaging in the exploration of various datasets related to Alzheimer's Disease and thoroughly reviewing a wide range of research papers.   
 
 
-### We have identified several research papers and thoroughly examined the papers to comprehend the diverse approaches and techniques utilized by different researchers in the field.
+We have identified several research papers and thoroughly examined the papers to comprehend the diverse approaches and techniques utilized by different researchers in the field.
 https://sci-hub.se/10.1109/ICACCS48705.2020.9074248  
 https://www.nature.com/articles/s41598-022-20674-x   
 https://www.frontiersin.org/articles/10.3389/fpubh.2022.853294/full   
 https://www.sciencedirect.com/science/article/pii/S1532046420301428   
-https://www.hindawi.com/journals/jhe/2021/9917919/   
-##### We have found some datasets that we can use for Alzheimer's research.
+https://www.hindawi.com/journals/jhe/2021/9917919/ 
+
+We have found some datasets that we can use for Alzheimer's research.
 https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images   
 https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers    
 
@@ -145,14 +146,29 @@ we commenced the documentation of our research activities into a comprehensive r
 we initiated the writing process for a conference paper to be submitted to IEEE. You can access the paper via the following link: [IEEE Conference Paper.](https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/blob/main/ieee_Alzheimr_conference_paper.pdf)
 
 
-## IEEE Conference Presentation 6th april 2024
+## IEEE Conference Presentation - 6th april 2024
 
-We had the opportunity to present our work at the IEEE conference. It was a valuable experience where we shared our research findings with fellow professionals and received insightful feedback.
+We had the opportunity to present our work at the IEEE Bombay conference. It was a valuable experience where we shared our research findings with fellow professionals and received insightful feedback.
 
 
-## Certificate of Recognition
+## Certificate 
+We are honored to have received a certificate of recognition for our presentation at the IEEE Bombay conference. This recognition motivates us to continue our efforts in the field of Machine Learning.
+<img width="838" alt="Screenshot 2024-04-15 at 8 59 56 PM" src="https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/assets/114294796/6a73cf88-162d-462f-9482-fc0a41189745">
 
-We are honored to have received a certificate of recognition for our presentation at the IEEE conference. This recognition motivates us to continue our efforts in the field of Machine Learning.
-![IEEE Conference Certificate](https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/blob/main/assets/114294796/e6b33cc9-3273-43fc-aa92-ef4e7e4a072c.jpg)
 
-![ieee_ Alzheimers_certificate](https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/assets/114294796/2651a7cd-93dc-40e2-9fbe-ffd909fd804b)
+
+## Dependencies
+
+The code in this repository may have dependencies on various Python libraries and packages. Please download the specific requirements.
+
+## Acknowledgments
+
+I would like to express my gratitude to srm-ap for providing me with the opportunity to work on this project. I would also like to thank my mentor Murali krishna sir for his guidance and support throughout the project.
+
+## Contact Information
+
+If you have any questions or would like to discuss this research further, please feel free to reach out to me:
+
+- **Name**: srujitha Devineni
+- **Email**: devinenisrujitha@srmap.edu.in
+
