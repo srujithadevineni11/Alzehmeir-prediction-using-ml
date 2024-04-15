@@ -135,7 +135,8 @@ We meticulously executed the following steps on the Alzheimer's Image Dataset:
     - Ann
       
 The accuracys are shown in the below graph. 
-<img width="533" alt="Screenshot 2023-10-12 at 4 35 35 PM" src="https://github.com/srujithadevineni11/UROP_project/assets/114294796/61796f4b-6952-4c88-a104-b8ebd524408f">
+
+<img width="883" alt="Screenshot 2024-04-15 at 7 24 32 PM" src="https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/assets/114294796/4dd85f43-fac2-485b-a62d-d5137f169f7d">
 
 
 ## References links
