@@ -139,6 +139,12 @@ The accuracys are shown in the below graph.
 <img width="883" alt="Screenshot 2024-04-15 at 7 24 32 PM" src="https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/assets/114294796/4dd85f43-fac2-485b-a62d-d5137f169f7d">
 
 
+
+
+
+
+
+
 ## References links
 https://ieeexplore.ieee.org/abstract/document/8389326     
 https://www.v7labs.com/blog/image-processing-guide
