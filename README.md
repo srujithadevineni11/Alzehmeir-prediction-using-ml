@@ -138,14 +138,21 @@ The accuracys are shown in the below graph.
 
 <img width="883" alt="Screenshot 2024-04-15 at 7 24 32 PM" src="https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/assets/114294796/4dd85f43-fac2-485b-a62d-d5137f169f7d">
 
+# week-5
+we commenced the documentation of our research activities into a comprehensive report, outlining our methodologies, findings, and insights. You can access the detailed report via the following link: [Research Report.](https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/blob/main/Report_alzheimers.pdf) 
+
+# week-6
+we initiated the writing process for a conference paper to be submitted to IEEE. You can access the paper via the following link: [IEEE Conference Paper.](https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/blob/main/ieee_Alzheimr_conference_paper.pdf)
 
 
+## IEEE Conference Presentation 6th april 2024
+
+We had the opportunity to present our work at the IEEE conference. It was a valuable experience where we shared our research findings with fellow professionals and received insightful feedback.
 
 
+## Certificate of Recognition
 
+We are honored to have received a certificate of recognition for our presentation at the IEEE conference. This recognition motivates us to continue our efforts in the field of Machine Learning.
+![IEEE Conference Certificate](https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/blob/main/assets/114294796/e6b33cc9-3273-43fc-aa92-ef4e7e4a072c.jpg)
 
-
-## References links
-https://ieeexplore.ieee.org/abstract/document/8389326     
-https://www.v7labs.com/blog/image-processing-guide
-P. Lodha, A. Talele and K. Degaonkar, "Diagnosis of Alzheimer's Disease Using Machine Learning," 2018 Fourth International Conference on Computing Communication Control and Automation (ICCUBEA), Pune, India, 2018, pp. 1-4, doi: 10.1109/ICCUBEA.2018.8697386.
+![ieee_ Alzheimers_certificate](https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/assets/114294796/2651a7cd-93dc-40e2-9fbe-ffd909fd804b)
