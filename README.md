@@ -159,6 +159,10 @@ We are honored to have received a certificate of recognition for our presentatio
 <img width="838" alt="Screenshot 2024-04-15 at 8 59 56 PM" src="https://github.com/srujithadevineni11/Alzehmeir-prediction-using-ml/assets/114294796/6a73cf88-162d-462f-9482-fc0a41189745">
 
 
+## Publications
+
+  _2023 IEEE Bombay Conference_, DOI: [10.1109/10543850](https://ieeexplore.ieee.org/abstract/document/10543850)  
+  This paper presents a machine learning model for early detection and prediction of Alzheimer's disease using various clinical datasets and features.
 
 ## Dependencies
 
